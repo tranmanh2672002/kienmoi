@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616465780 source:d:\hangman\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<algorithm>
+
+1616465433 source:d:\hangman\draw.cpp
+
